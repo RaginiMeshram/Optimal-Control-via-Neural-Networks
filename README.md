@@ -1,4 +1,4 @@
-# Optimal-Control-via-Neural-Networks.
+# Optimal-Control-via-Neural-Networks...
 
 This is the code repository for ICLR 2019 Paper [Optimal Control Via Neural Networks: A Convex Approach](https://openreview.net/forum?id=H1MW72AcK7)
 
